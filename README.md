@@ -1,5 +1,11 @@
 # maze-simulation
-Maze world and launch file to test maze-solving algorithms 
+Maze world and launch file to test maze-solving algorithms.
+
+## Set-Up
+
+Download the ```maze``` folder containing the maze model files, and save it to ```~/. gazebo/models```.
+
+## Usage
 
 To use navigate to the ```launch``` folder and run: 
 
