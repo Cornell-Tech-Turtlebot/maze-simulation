@@ -10,8 +10,9 @@ file.
 
 ## Usage
 
+1. Run  ```export TURTLEBOT3_MODEL=waffle_pi```.
 
-Navigate to the ```launch``` folder in ```maze_simulations``` and run: 
+2. Navigate to the ```launch``` folder in ```maze_simulations``` and run: 
 
 ```
 roslaunch maze.launch
