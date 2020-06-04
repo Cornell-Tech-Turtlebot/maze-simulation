@@ -5,7 +5,8 @@ Maze world and launch file to test maze-solving algorithms.
 
 1. Download the ```maze``` folder containing the maze model files, and save it to ```~/. gazebo/models```.
 
-2. Follow the instructions on https://github.com/Cornell-Tech-Turtlebot/rosinstalls to install everything else.
+2. Follow the instructions on https://github.com/Cornell-Tech-Turtlebot/rosinstalls to run the ```eva-maze.rosinstall``` 
+file.
 
 ## Usage
 
