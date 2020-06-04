@@ -7,4 +7,4 @@ To use navigate to the ```launch``` folder and run:
 roslaunch maze.launch
 ```
 
-The maze world will load  in Gazebo and the robot will be position in the middle.
+The maze world will load  in Gazebo and the robot will be approximately in the center.
