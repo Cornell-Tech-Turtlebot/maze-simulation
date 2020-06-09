@@ -8,7 +8,7 @@ Maze world and launch file to test maze-solving algorithms.
 2. Follow the instructions on https://github.com/Cornell-Tech-Turtlebot/rosinstalls to run the ```eva-maze.rosinstall``` 
 file.
 
-## Usage
+## Use
 
 1. Run  ```export TURTLEBOT3_MODEL=waffle_pi```.
 
